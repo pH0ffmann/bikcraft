@@ -11,6 +11,7 @@
 
 @import url("./utilidades/componentes.css");
 @import url("./utilidades/formulario.css");
+@import url("./utilidades/animacao.css");
 
 @import url("./bicicleta/bicicleta.css");
 @import url("./bicicleta/seguro.css");
